@@ -12,7 +12,7 @@ Terdpat [link](http://103.167.136.89:10088/) yang ketika di klik maka akan menam
 Ketika kita klik 'Get Your Fortune' terdapat respon dari web yang berubah ubah setiap kita menekannya
 ![2](https://github.com/RifqiYafik/CTF_WriteUp/assets/136687984/cc52b2df-73a3-472d-a158-ec8537c069aa)
 
-Disini saya langsung mencoba melihat coookiesnya dengan cookie editor dan mengganti valuenya menjadi 1 kemudian save dan refresh halaman webnya dan benar saja terdapat respont yang merupakan flagnya
+Disini saya langsung mencoba melihat coookiesnya dengan cookie editor dan mengganti valuenya menjadi 1 kemudian save dan refresh halaman webnya dan benar saja terdapat respon yang merupakan flagnya.
 ![3](https://github.com/RifqiYafik/CTF_WriteUp/assets/136687984/cb5b41ea-9473-4e69-b078-3657fd110931)
 
 ## Flag
