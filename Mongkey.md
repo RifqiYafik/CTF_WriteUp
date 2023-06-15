@@ -24,7 +24,7 @@ Username sudah ditemukan, saya mencoba sekali lagi melakukan enumerasi pada pasw
 ```shell
 python3 nosqli -u http://103.167.136.89:10002/ -up user -pp pass -ep pass -op login:login -m POST
 ```
-Tidak disangka Flag yang kita cari didapatkan pada saat melakukan enumerasi pada passwordnya.
+Ditemukan 2 password dan tidak disangka Flag yang kita cari merupakan salah satu passwordnya.
 
 ![12](https://github.com/RifqiYafik/CTF_WriteUp/assets/136687984/81673266-6a79-46b0-b8be-fca08649006d)
 
