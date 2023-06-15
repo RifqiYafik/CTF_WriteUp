@@ -7,6 +7,6 @@ Write Up CTF dari event Foresty Hacker Class
 ## Week 1
 | Category | Challenge |
 | --- | --- |
-| Web Exploitation | [Sanity Check](Sanity_Check.md)
+| Miscellaneous | [Sanity Check](Sanity_Check.md)
 | Web Exploitation | [Fortune Cookies](Fortune_Cookies.md)
 | Web Exploitation | [Mongkey](Mongkey.md)
