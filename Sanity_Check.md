@@ -1,5 +1,5 @@
 # Sanity Check
-### About The Challenge
+## About The Challenge
 
 Diberikan sebuah chiphertext:
 466f726573747948437b77656c636f6d655f746f5f6861636b65725f636c6173735f666f72657374795f3539366537377d0a
@@ -9,8 +9,8 @@ Diberikan sebuah chiphertext:
 
 Dan Terdapat Hint yang berisi "Hex"
 
-### Solution
+## Solution
 Langsung saja saya coba eksekusi dengan [tools ini](https://dencode.com/) dengan mendekrip chiphertext "466f726573747948437b77656c636f6d655f746f5f6861636b65725f636c6173735f666f72657374795f3539366537377d0a" dan benar saja didapatkanlah flagnya berupa Hex String.
 
-### Flag
+## Flag
 **ForestyHC{welcome_to_hacker_class_foresty_596e77}**
